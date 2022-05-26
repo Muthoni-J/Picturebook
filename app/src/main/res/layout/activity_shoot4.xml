@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="393dp"
-        android:layout_height="141dp"
+        android:layout_width="317dp"
+        android:layout_height="86dp"
         android:layout_marginBottom="288dp"
         android:text="You don't marry the person you can live with—you marry the person you can't live without.&quot; &quot;A successful marriage requires falling in love many times, always with the same person.&quot; &quot;I would rather share one lifetime with you than face all the ages of this world alone.&quot; "
         app:layout_constraintBottom_toBottomOf="parent"

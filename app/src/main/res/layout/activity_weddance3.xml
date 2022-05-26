@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="369dp"
-        android:layout_height="122dp"
+        android:layout_width="300dp"
+        android:layout_height="112dp"
         android:layout_marginBottom="188dp"
         android:text=" Image result for what is special say about wedding dance ceremony It shows the love and unity between the new couple. The way of dancing, expression and the dancing steps reveal the harmony between the bride and groom."
         android:textSize="20sp"
@@ -48,12 +48,10 @@
         android:id="@+id/btnnxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="84dp"
         android:text="Next"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toBottomOf="@+id/btnprev"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/btnprev"
-        app:layout_constraintTop_toBottomOf="@+id/textView3"
-        app:layout_constraintVertical_bias="0.044" />
+        app:layout_constraintTop_toTopOf="@+id/btnprev" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
