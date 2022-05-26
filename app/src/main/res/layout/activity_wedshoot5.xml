@@ -22,7 +22,9 @@
         android:id="@+id/textView5"
         android:layout_width="311dp"
         android:layout_height="89dp"
-        android:layout_marginTop="34dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
         android:text='"A successful marriage requires falling in love many times, always with the same person." "I would rather share one lifetime with you than face all the ages of this world alone." "Faith makes all things possible.'
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.489"
